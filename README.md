@@ -25,6 +25,7 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/alexander-balashov-922098216/)  
 📧 [Email](mailto:alexbalashov02@gmail.com)  
+✈️ [Telegram](https://t.me/AleksanderBalashov)  
 
 ---
 
