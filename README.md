@@ -1,6 +1,6 @@
 ## 👋 Hello, I'm Alex!
 
-🚀 Backend Python Developer | Clean Code Advocate
+🚀 Python Developer | Clean Code Advocate
 
 ---
 
