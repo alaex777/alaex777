@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hello, I'm Alex!
 
-<!--
-**alaex777/alaex777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Python Developer | Clean Code Advocate
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Skills
+
+- 🐍 Python (Asyncio, Aiohttp, FastAPI)
+- ⚡ Microservices Architecture & Design Patterns
+- 🏗️ Clean Code & Software Best Practices
+- 💾 Databases (PostgreSQL, MongoDB, SQLite)
+- 🛠️ DevOps (Docker, Kubernetes, CI/CD, AWS, RabbitMQ)
+- 📡 API Development & Optimization
+
+---
+
+### 📌 Projects & Contributions
+
+🔹 **[freeze-uuid](https://github.com/alaex777/freeze-uuid)** - Python package for mocking uuid.
+
+---
+
+### 🌍 Let's Connect!
+
+💼 [LinkedIn](https://www.linkedin.com/in/alexander-balashov-922098216/)  
+📧 [Email](mailto:alexbalashov02@gmail.com)  
+
+---
+
+⭐️ Feel free to fork and ⭐️ my repositories if you find them useful!
